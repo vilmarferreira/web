@@ -1,0 +1,75 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 599
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object WebBrowser1: TWebBrowser
+    Size.Width = 233.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 56.000000000000000000
+    Position.Y = 56.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=LS3D7wI4mFc'
+  end
+  object WebBrowser2: TWebBrowser
+    Size.Width = 225.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 352.000000000000000000
+    Position.Y = 56.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=LS3D7wI4mFc'
+  end
+  object WebBrowser3: TWebBrowser
+    Size.Width = 233.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 56.000000000000000000
+    Position.Y = 184.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=onqCZEywx1A'
+  end
+  object WebBrowser4: TWebBrowser
+    Size.Width = 225.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 352.000000000000000000
+    Position.Y = 184.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=LS3D7wI4mFc'
+  end
+  object WebBrowser5: TWebBrowser
+    Size.Width = 233.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 56.000000000000000000
+    Position.Y = 312.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=60OY1unxgEw&t=29s'
+  end
+  object WebBrowser6: TWebBrowser
+    Size.Width = 225.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 352.000000000000000000
+    Position.Y = 312.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=8FI-UvoB0-U'
+  end
+  object WebBrowser7: TWebBrowser
+    Size.Width = 233.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 56.000000000000000000
+    Position.Y = 440.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=60OY1unxgEw&t=29s'
+  end
+  object WebBrowser8: TWebBrowser
+    Size.Width = 225.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    Position.X = 352.000000000000000000
+    Position.Y = 440.000000000000000000
+    URL = 'https://www.youtube.com/watch?v=60OY1unxgEw&t=29s'
+  end
+end

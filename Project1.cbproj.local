@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/04 15:38:44.000.984,=C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/10/04 15:38:45.000.000,=C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/10/04 15:38:54.000.878,=C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/10/04 15:38:55.000.007,=C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/06 23:15:21.000.349,=C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/11/06 23:15:22.000.609,=C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/06 23:21:41.000.154,C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\VILMAR\Desktop\web\Unit1.fmx</Transaction>
+    <Transaction>2016/11/06 23:21:41.000.154,C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\VILMAR\Desktop\web\Unit1.h</Transaction>
+    <Transaction>2016/11/06 23:21:41.000.154,C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\VILMAR\Desktop\web\Unit1.cpp</Transaction>
+    <Transaction>2016/11/06 23:21:42.000.342,C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\VILMAR\Desktop\web\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/06 23:21:43.000.184,C:\Users\VILMAR\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\VILMAR\Desktop\web\Project1.cbproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="AndroidAula"/>
+	</ActiveMobileDevice>
+</BorlandProject>
